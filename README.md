@@ -71,41 +71,6 @@ Interesso-me pela combinação entre dados, programação e interfaces, exploran
 </div>
 
 ---
----
-
-## `03` — Featured projects
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/PROJECTS-SELECTED%20WORK-000000?style=for-the-badge&labelColor=303030" alt="Projetos em destaque"/>
-
-  <br/><br/>
-
-  <a href="https://github.com/abiliaframboesa/Autolux-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Autolux-frontend&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Autolux Frontend"/>
-  </a>
-  <a href="https://github.com/abiliaframboesa/Thesis_RNASeq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Thesis_RNASeq&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Thesis RNASeq"/>
-  </a>
-  <a href="https://github.com/abiliaframboesa/Celfocus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Celfocus&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Celfocus"/>
-  </a>
-  <a href="https://github.com/abiliaframboesa/Data-Visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Data-Visualization&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Data Visualization"/>
-  </a>
-  <a href="https://github.com/abiliaframboesa/Vite-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Vite-Calculator&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Vite Calculator"/>
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/abiliaframboesa?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Ver todos os repositórios"/>
-  </a>
-
-</div>
-
----
 
 ## `03` — Featured projects
 
