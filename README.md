@@ -78,14 +78,6 @@ Interesso-me pela combinação entre dados, programação e interfaces, exploran
 
   <img src="https://img.shields.io/badge/PROJECTS-PORTFOLIO%20IN%20PROGRESS-000000?style=for-the-badge&labelColor=303030" alt="Projetos"/>
 
-</div>
-
-Ainda não foram indicados projetos para apresentar aqui.
-
-Quando tiveres repositórios que queiras destacar, podes substituir esta secção pelos cards abaixo.
-
-<!--
-Descomenta e substitui os valores quando tiveres projetos:
 
 <div align="center">
 
@@ -99,7 +91,7 @@ Descomenta e substitui os valores quando tiveres projetos:
 
 
 
-<a href="LINK_DO_SEGUNDO_PROJETO">
+<a href="https://github.com/abiliaframboesa/Autolux-frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=SEGUNDO_REPOSITORIO&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Segundo projeto"/>
 </a>
 
