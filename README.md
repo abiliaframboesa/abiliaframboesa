@@ -89,9 +89,15 @@ Descomenta e substitui os valores quando tiveres projetos:
 
 <div align="center">
 
-<a href="LINK_DO_PROJETO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=NOME_DO_REPOSITORIO&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Projeto em destaque"/>
-</a>
+  <img src="https://img.shields.io/badge/PROJECTS-FEATURED%20WORK-000000?style=for-the-badge&labelColor=303030" alt="Projetos em destaque"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/abiliaframboesa/Autolux-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=Autolux-frontend&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Autolux Frontend"/>
+  </a>
+
+
 
 <a href="LINK_DO_SEGUNDO_PROJETO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=SEGUNDO_REPOSITORIO&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="Segundo projeto"/>
