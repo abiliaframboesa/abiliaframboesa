@@ -166,7 +166,17 @@ API REST para gestão de fornecedores e encomendas, com validação de dados, c�
 
 </div>
 
-### 07 — Vite Calculator
+### 07 — ROCK-ECO
+
+<div align="center">
+
+<a href="https://github.com/abiliaframboesa/ROCK-ECO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiliaframboesa&repo=ROCK-ECO&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" alt="ROCK ECO"/>
+</a>
+
+</div>
+
+### 08 — Vite Calculator
 
 <div align="center">
 
